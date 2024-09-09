@@ -1,5 +1,5 @@
 Hi,<𝚌𝚘𝚍𝚎𝚛𝚜/>!
-I'm Himel 👋, a tech enthusiast who loves creating innovative web solutions.
+I'm Towhid 👋, a tech enthusiast who loves creating innovative web solutions.
 🌱 I’m currently working A (Data Analyst) the "MAINETTI"
 🔍 I’m diving deeper into Python and backend development
 🤝 I’m looking to collaborate on full-stack web development projects
